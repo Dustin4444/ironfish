@@ -29,6 +29,6 @@ ff = "0.12.0"
 group = "0.12.0"
 ironfish-jubjub = { version = "0.1.0" }
 lazy_static = "1.4.0"
-rand = "0.8.5"
+rand = "0.9.3"
 ironfish-primitives = { version = "0.1.0" }
 ironfish-proofs = { version = "0.1.0" }
