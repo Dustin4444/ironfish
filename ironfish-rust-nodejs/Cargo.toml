@@ -36,7 +36,7 @@ libc = "0.2.150"
 napi = { version = "2.14.4", features = ["napi6"] }
 napi-derive = "2.14.6"
 num_cpus = "1.16.0"
-rand = "0.8.5"
+rand = "0.8.6"
 signal-hook = { version = "0.3.17", optional = true, default-features = false, features = ["iterator"] }
 
 [build-dependencies]
